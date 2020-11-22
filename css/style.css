@@ -1331,6 +1331,11 @@ pre {
   .offset-xl-11 {
     margin-left: 91.66667%; } }
 
+
+.fa, .fas {font-weight: 900;
+    font-size: 1.5rem;
+    color: white;}
+
 .table {
   width: 100%;
   margin-bottom: 1rem;
@@ -8585,7 +8590,7 @@ h1, h2, h3, h4, h5,
     color: #fff !important; }
     .btn.btn-primary:hover {
       border: 1px solid #6130b1 !important;
-      background: #6130b1 !important;
+      background: #e2c4f2 !important;
       color: #000000 !important; }
     .btn.btn-primary.btn-outline-primary {
       border: 2px solid #6130b1 !important;
